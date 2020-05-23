@@ -44,6 +44,23 @@ const dummyData = [
                 text: "It that injustice"
             }
         ]
+    },
+    {
+        username: "Chicago | Windy City",
+        thumbnailUrl: 'https://icon2.cleanpng.com/20180320/sqe/kisspng-twitch-computer-icons-streaming-media-youtube-live-tv-twitch-icon-5ab19172461392.001176751521586546287.jpg',
+        imageUrl: 'https://images.unsplash.com/photo-1524168272322-bf73616d9cb5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80',
+        likes: 4307,
+        timestamp: "May 23th 2020, 12:57:09 pm",
+        comments: [
+            {
+                username: "Chicago Bean",
+                text: "Great shore Line to visit"
+            },
+            {
+                username: "Sears Tower",
+                text: "Come visti the Sears Tower"
+            },
+        ]
     }
 ];
 
